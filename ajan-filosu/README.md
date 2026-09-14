@@ -114,15 +114,6 @@ ajan-filosu/
 
 ---
 
-Bu sistemi **Muhammed Sevimli** kurdu. AI ile gerçek satış ve büyüme sistemleri. Kurarken takılırsan ya da adım adım anlatımlı rehber istersen yaz:
-
-- Web: https://muhammedsevimli.com
-- X: https://x.com/_msevimli
-- Instagram: https://instagram.com/msevimli_
-- Threads: https://threads.com/@msevimli_
-- YouTube: https://youtube.com/@msevimli
-- E-posta: hey@muhammedsevimli.com
-
 ## Lisans
 
 [MIT](LICENSE)
